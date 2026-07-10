@@ -1,9 +1,6 @@
 # SQL-Pizza-Sales-Project
 SQL-based Pizza Sales Analysis project using MySQL to analyze revenue, sales trends, customer ordering patterns, and business insights through complex queries.
 
-## Overview
-This project analyzes a pizza sales dataset using MySQL to derive business insights through SQL queries.
-
 ## Skills Demonstrated
 - SQL Joins
 - Aggregate Functions
